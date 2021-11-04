@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 Ko
 
-HTML, CSS
+Ko Jung Hoon HTML, CSS
