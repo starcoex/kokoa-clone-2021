@@ -1,0 +1,28 @@
+.alt-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: var(--horizontal-space);
+  margin-bottom: 15px;
+}
+.alt-header-colum {
+  width: 33%;
+}
+.alt-header__title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.alt-header-colum:first-child {
+  margin-right: auto;
+}
+.alt-header-colum:nth-child(2) {
+  text-align: center;
+}
+.alt-header-colum:last-child {
+  margin-left: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+.alt-header-colum span:last-child {
+  margin-left: 20px;
+}
